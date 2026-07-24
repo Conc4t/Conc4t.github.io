@@ -7,3 +7,21 @@ $grey-color:       #7a6a58;
 $base-font-family: Georgia, "Iowan Old Style", serif;
 
 @import "minima";
+
+.home-box {
+  display: block;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1rem;
+  text-decoration: none;
+  color: inherit;
+  background-color: #e8dcc5;
+  transition: background-color 0.15s ease;
+}
+.home-box:hover {
+  background-color: #dccdae;
+}
+.home-box-emoji {
+  font-size: 28px;
+  margin-bottom: 6px;
+}
