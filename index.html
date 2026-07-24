@@ -12,7 +12,8 @@ title: Home
     <div>
       <p style="font-size:26px; margin:0 0 10px; font-weight:600;">Greetings</p>
       <p style="font-size:15px; line-height:1.85; margin:0 0 10px; max-width:460px;">
-        I'm Michael, a data science student who dabbles with writing, drawing, music, literature, and whatever else happens to be on my mind.
+        I'm Michael, a data science student who dabbles with writing, drawing, music, literature, and whatever else
+        happens to be on my mind.
       </p>
       <p style="font-size:15px; line-height:1.85; margin:0; max-width:460px;">
         Welcome to my digital garden 🌱, where I grow my ideas. Enjoy your stroll.
@@ -21,7 +22,8 @@ title: Home
   </div>
 
   <div style="margin-bottom:2rem;">
-    <p style="font-size:12px; letter-spacing:0.05em; text-transform:uppercase; color:#888; margin:0 0 10px;">Recent</p>
+    <p style="font-size:12px; letter-spacing:0.05em; text-transform:uppercase; color:#888; margin:0 0 10px;">🍃 Recent
+    </p>
     <div style="display:flex; flex-direction:column; gap:6px;">
       {% for post in site.posts limit:5 %}
       <div style="display:flex; justify-content:space-between; font-size:14px;">
@@ -33,13 +35,33 @@ title: Home
   </div>
 
   <div style="margin-bottom:2rem;">
-    <p style="font-size:12px; letter-spacing:0.05em; text-transform:uppercase; color:#888; margin:0 0 10px;">Writing</p>
-    <p style="font-size:14px; line-height:1.7; margin:0;">Book reviews, blog posts, a novel in progress. Occasional cat cameos.</p>
+    <p style="font-size:12px; letter-spacing:0.05em; text-transform:uppercase; color:#888; margin:0 0 10px;">
+      📝 <a href="/writing/" style="color:inherit;">Writing</a>
+    </p>
+    <p style="font-size:14px; line-height:1.7; margin:0 0 16px;">Book reviews, blog posts, a novel in progress.
+      Occasional cat cameos.</p>
+
+    <div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:16px;">
+      <a href="/blog/"
+        style="display:block; border:1px solid #ddd; border-radius:12px; padding:1.5rem; text-decoration:none; color:inherit;">
+        <div style="font-size:40px; margin-bottom:10px;">🤔</div>
+        <p style="font-size:15px; font-weight:600; margin:0;">Blog Posts</p>
+      </a>
+      <div style="border:1px dashed #ddd; border-radius:12px; padding:1.5rem;">
+        <p style="font-size:13px; color:#aaa; margin:0;">Coming soon</p>
+      </div>
+      <div style="border:1px dashed #ddd; border-radius:12px; padding:1.5rem;">
+        <p style="font-size:13px; color:#aaa; margin:0;">Coming soon</p>
+      </div>
+    </div>
   </div>
 
   <div>
-    <p style="font-size:12px; letter-spacing:0.05em; text-transform:uppercase; color:#888; margin:0 0 10px;">Projects</p>
-    <p style="font-size:14px; line-height:1.7; margin:0;">Data/Comp Sci related. Small builds for coursework or for fun. Documented as I go.</p>
+    <p style="font-size:12px; letter-spacing:0.05em; text-transform:uppercase; color:#888; margin:0 0 10px;">
+      💻 <a href="/projects/" style="color:inherit;">Projects</a>
+    </p>
+    <p style="font-size:14px; line-height:1.7; margin:0;">Data/Comp Sci related. Small builds for coursework or for fun.
+      Documented as I go.</p>
   </div>
 
 </div>
