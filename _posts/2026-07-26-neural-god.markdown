@@ -28,7 +28,7 @@ Many people share the point of view that science cannot prove or disprove the ex
 
 A Math teacher once told me that something complex and beautiful can arise out of patterns of simple things. Indeed there are many such examples in Mathematics: take the Mandelbrot set or prime numbers on the Ulam spiral. Or consider this other phenomenon. Each individual neuron, or each atom therein, does not desire ice-cream or knowledge, but collectively they might. This is a property I've heard scientists call "emergence", in the debate of whether we possess free will. 
 
-However, who is to say that in this universe full of chaos, such order is only chance, such love is only biology, or if humans have not emerged beyond the realm of the physical or that of the animal, guided by a few simple principles set in motion by God? 
+However, who is to say in this cold and chaotic universe, if such order is only chance. If such love is only biology. Or if humans have not emerged beyond the realm of the physical or that of the animal, and stepped onto the verge of something greater, something higher, guided by a few simple principles set in motion by God? 
 
 Here, at least, with our neural networks, we are given the capacity to wonder.
 
