@@ -1,0 +1,39 @@
+---
+layout: page
+title: The Book Cat-a-log
+permalink: /reviews/
+---
+
+<div style="max-width:800px;">
+
+  <h3 style="font-size:14px; text-transform:uppercase; letter-spacing:0.05em; color:#888; margin:0 0 12px;">Fiction</h3>
+  <div style="display:grid; grid-template-columns:repeat(4, 1fr); gap:16px; margin-bottom:2.5rem;">
+    {% assign fiction = site.book_reviews | where: "genre", "fiction" %}
+    {% for book in fiction %}
+    <a href="{{ book.url | relative_url }}" class="home-box" style="padding:1rem;">
+      <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:6px;">
+        <p style="font-size:14px; font-weight:600; margin:0;">{{ book.title }}</p>
+        <p style="font-size:16px; font-weight:700; color:#b5651d; margin:0; white-space:nowrap;">{{ book.rating }}/5</p>
+      </div>
+      <p style="font-size:12px; color:#888; margin:0 0 8px;">{{ book.author }}</p>
+      <p style="font-size:12px; font-style:italic; color:#666; margin:0;">"{{ book.blurb }}"</p>
+    </a>
+    {% endfor %}
+  </div>
+
+  <h3 style="font-size:14px; text-transform:uppercase; letter-spacing:0.05em; color:#888; margin:0 0 12px;">Non-Fiction</h3>
+  <div style="display:grid; grid-template-columns:repeat(4, 1fr); gap:16px;">
+    {% assign nonfiction = site.book_reviews | where: "genre", "non-fiction" %}
+    {% for book in nonfiction %}
+    <a href="{{ book.url | relative_url }}" class="home-box" style="padding:1rem;">
+      <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:6px;">
+        <p style="font-size:14px; font-weight:600; margin:0;">{{ book.title }}</p>
+        <p style="font-size:16px; font-weight:700; color:#b5651d; margin:0; white-space:nowrap;">{{ book.rating }}/5</p>
+      </div>
+      <p style="font-size:12px; color:#888; margin:0 0 8px;">{{ book.author }}</p>
+      <p style="font-size:12px; font-style:italic; color:#666; margin:0;">"{{ book.blurb }}"</p>
+    </a>
+    {% endfor %}
+  </div>
+
+</div>

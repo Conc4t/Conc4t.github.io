@@ -62,3 +62,6 @@ collections:
   field_notes:
     output: true
     permalink: /field-notes/:year/:month/:day/:title/
+  book_reviews:
+    output: true
+    permalink: /reviews/:title/
