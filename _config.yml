@@ -58,3 +58,7 @@ header_pages:
   - writing.html
   - about.markdown
 
+collections:
+  field_notes:
+    output: true
+    permalink: /field-notes/:year/:month/:day/:title/
