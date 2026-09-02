@@ -8,7 +8,11 @@ blurb: "Precious Perspective"
 date: 2026-09-01
 ---
 
-Stay tuned.
+(Translated by Alison L. Strayer)
+
+When my friend handed me A Girl's Story, belonging to the CIS Swap and Share library, sort of as a joke, I did not anticipate that I would enjoy it as much as I did. I thoroughly appreciated Annie Ernaux's playful, insightful, beautiful reflections on her adolescence and her inspiring journey to become an author — the kind that only arises from looking through the "strange unreality" of hindsight at the "stupefying reality of things that happen", things too shocking, mundane, weird and wonderful for even fiction. 
+
+Below are just some of many quotes that resonated with me.  
 
 ## Quotes:
 "... as if everything that had happened since the night at the summer camp, one blunder after another, led up to this inaugural gesture. In which case, this would be the story of a perilous crossing to the harbour of writing, and, in the end, an uplifting demonstration of the fact that what counts is not the things that happen, but what we do with them. All this belongs to the realm of reassuring beliefs which are fated, as we age, to become more and more deeply ingrained in us, but whose truth is fundamentally impossible to establish."
@@ -28,6 +32,8 @@ Stay tuned.
 "... she is all desire and pride. And: she is waiting to fall madly in love."
 
 "She feels herself immersed in an atmosphere of superiority — implalpable, intimidating."
+
+"I started to make a literary being of myself, someone who lives as if her experiences were to be written down some day."
 
 "Explore the gulf between the stupefying reality of things that happen, at the moment they happen, and years later, the strange unreality in which things that happen are enveloped."
 
