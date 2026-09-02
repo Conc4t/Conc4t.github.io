@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Specifications"
+title: "Overview of Specifications"
 permalink: /projects/dictionary-linked-lists/specs/
 ---
 
-Assignment requirements and specifications go here.
+
