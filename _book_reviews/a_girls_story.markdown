@@ -2,7 +2,7 @@
 layout: post
 title: "A Girl's Story"
 author: "Annie Ernaux"
-genre: fiction
+genre: non-fiction
 rating: 5
 blurb: "Precious Perspective"
 date: 2026-09-01
