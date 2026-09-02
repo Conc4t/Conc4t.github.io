@@ -10,7 +10,7 @@ date: 2026-09-01
 
 (Translated by Alison L. Strayer)
 
-When my friend handed me A Girl's Story, belonging to the CIS Swap and Share library, sort of as a joke, I did not anticipate that I would enjoy it as much as I did. I thoroughly appreciated Annie Ernaux's playful, insightful, beautiful reflections on her adolescence and her inspiring journey to become an author — the kind that only arises from looking through the "strange unreality" of hindsight at the "stupefying reality of things that happen", things too shocking, mundane, weird and wonderful for even fiction. 
+When my friend handed me A Girl's Story, belonging to the School of CIS Swap and Share library, sort of as a joke, I did not anticipate that I would enjoy it as much as I did. I thoroughly appreciated Annie Ernaux's playful, insightful, beautiful reflections on her adolescence and her inspiring journey to become an author — the kind that only arises from looking through the "strange unreality" of hindsight at the "stupefying reality of things that happen", things too shocking, mundane, weird and wonderful for even fiction. 
 
 Below are just some of many quotes that resonated with me.  
 
