@@ -11,10 +11,7 @@ permalink: /reviews/
     {% assign fiction = site.book_reviews | where: "genre", "fiction" %}
     {% for book in fiction %}
     <a href="{{ book.url | relative_url }}" class="home-box" style="padding:1rem;">
-      <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:6px;">
-        <p style="font-size:14px; font-weight:600; margin:0;">{{ book.title }}</p>
-        <p style="font-size:16px; font-weight:700; color:#b5651d; margin:0; white-space:nowrap;">{{ book.rating }}/5</p>
-      </div>
+      <p style="font-size:14px; font-weight:600; margin:0 0 6px;">{{ book.title }}</p>
       <p style="font-size:12px; color:#888; margin:0 0 8px;">{{ book.author }}</p>
       <p style="font-size:12px; font-style:italic; color:#666; margin:0;">"{{ book.blurb }}"</p>
     </a>
@@ -26,10 +23,7 @@ permalink: /reviews/
     {% assign nonfiction = site.book_reviews | where: "genre", "non-fiction" %}
     {% for book in nonfiction %}
     <a href="{{ book.url | relative_url }}" class="home-box" style="padding:1rem;">
-      <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:6px;">
-        <p style="font-size:14px; font-weight:600; margin:0;">{{ book.title }}</p>
-        <p style="font-size:16px; font-weight:700; color:#b5651d; margin:0; white-space:nowrap;">{{ book.rating }}/5</p>
-      </div>
+      <p style="font-size:14px; font-weight:600; margin:0 0 6px;">{{ book.title }}</p>
       <p style="font-size:12px; color:#888; margin:0 0 8px;">{{ book.author }}</p>
       <p style="font-size:12px; font-style:italic; color:#666; margin:0;">"{{ book.blurb }}"</p>
     </a>
