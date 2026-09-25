@@ -7,7 +7,7 @@ blurb: "Intricately doomed love"
 date: 2026-09-23
 ---
 
-Giovanni's Room was a melancholic mood piece for me. Praised for its passion and daring, it is also a tale of fated tragedy set in the cold "mist and rain of Paris" told through David's "still" reflection. The beginnings of both parts make no attempt to hide this. 
+Giovanni's Room was a melancholic mood piece for me. Praised for its passionate and daring depiction of gay romance, it is also a tale of fated tragedy set in the cold "mist and rain of Paris" told through David's "still" reflection. The beginnings of both parts make no attempt to hide this. 
 
 It is not a story of us against the world but one of falling, of prisons, of love in a messy and claustrophic room, of a confused David, alone, while Hella is on the high seas and Giovanni about to perish.
 
