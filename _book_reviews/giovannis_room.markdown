@@ -23,6 +23,8 @@ Baldwin's poetic and elegant prose (I like in particular his clever Biblical ref
 
 "Everyone, after all, goes the same dark road — and the road has a trick of being most dark, most treacherous, when it seems most bright — and it's true that nobody stays in the Garden of Eden."
 
+"It takes strength to remember, it takes another kind of strength to forget, it takes a hero to do both."
+
 "With this fearful intimation there opened in me a hatred for Giovanni which was as powerful as my love and which was nourished by the same roots."
 
 "You do, sometimes, remind me of the kind of man who is tempted to put himself in prison in order to avoid being hit by a car."
@@ -32,7 +34,7 @@ She laughed. 'But we — we have our love to keep us warm.'"
 
 "You want to despise Giovanni because he is not afraid of the stink of love."
 
-"I look at my sex, my troubling sex, and wonder how it can bbe redeemed ... I must believe, I must believe, that the heavy grace of God, which has brought me to this place, is all that can carry me out of it."
+"I look at my sex, my troubling sex, and wonder how it can be redeemed ... I must believe, I must believe, that the heavy grace of God, which has brought me to this place, is all that can carry me out of it."
 
 
 
